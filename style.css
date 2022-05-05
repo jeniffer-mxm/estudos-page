@@ -1,0 +1,11 @@
+
+body{
+    font-family:'Oswald';
+    margin: 0;
+    padding: 0;
+    background-color: #15161B;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
